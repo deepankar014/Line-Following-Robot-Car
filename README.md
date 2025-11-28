@@ -181,7 +181,9 @@ This project successfully demonstrates a reliable and accurate line-following ro
 ## 👨‍💻 Made By
 
 Deepankar Majee
+
 Electronics and Communication Engineering, GEC Gandhinagar
+
 Focus Areas: DIgital Electronics, Embedded Systems, VLSI, Digital Design, and ASIC Flow
 
 ---
